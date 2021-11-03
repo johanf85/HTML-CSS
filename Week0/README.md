@@ -19,7 +19,7 @@ Slack is an application that allows us to communicate with others through (video
 
 Please download the app for on your desktop:
 
--   [OSX](https://slack.com/downloads/osx)
+-   [Mac](https://slack.com/downloads/mac)
 -   [Windows](https://slack.com/downloads/windows)
 -   [Linux](https://slack.com/downloads/linux)
 
