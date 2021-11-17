@@ -65,7 +65,7 @@ You don't have to build everything, but include the following requirements:
 - Make use of `flexbox`
 - Download the assets (images, other forms of media) through the original webpage, or use your own!
 - Use media queries for both tablet and mobile (This might be same for the website you're making)
-- **Make use of GIT and GitHub** to keep track of your work. The name of the repository should web _WEBSITENAME-clone_
+- **Make use of GIT and GitHub** to keep track of your work. The name of the repository should be _WEBSITENAME-clone_
 
 ### 6. Optional: Flexbox games
 
